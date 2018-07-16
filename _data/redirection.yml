@@ -1,0 +1,7 @@
+# Example links, works with arrays or single values
+- from: ["facebook", "fb"]
+  to: https://www.facebook.com/DorkoTV
+- from: ["twitter", "tw"]
+  to: https://twitter.com/annedorko
+- from: twitch
+  to: https://www.twitch.tv/annedorko
